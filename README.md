@@ -10,4 +10,8 @@ At STRV, we focus on delivering different types and sizes of mostly B2C projects
 
 This course will be full of live coding, real exercises and hands-on experience. Don’t be afraid of being burdened with a lot of theory — that’s not how we do things. Our goal is to provide you with the best practices we’ve learned over the years and on hundreds of projects, to make you a better backend engineer and a real problem solver!
 
-Long story short: After this course, you should know enough to work at STRV (or any similar company that seeks strong engineers). :)
+Long story short: After this course, you should know enough to work at STRV (or any similar company that seeks strong engineers). 😉
+
+## [Materials](https://github.com/strvcom/backend-academy-2022/wiki)
+
+Sounds good? Let's head out to [the materials for the course](https://github.com/strvcom/backend-academy-2022/wiki)!
